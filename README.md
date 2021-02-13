@@ -1,9 +1,11 @@
 # pdf2text
 convert pdf with picture inside to plain text file
 
-·Sudo apt install Figlet
-·Sudo apt install git
-·sudo apt install image magick
+ sudo apt install figlet
+
+ sudo apt install git
+
+ sudo apt install image magick
 
 ubah permission imagemagick Supaya bisa edit File pdf
 buka File manager (di kubuntu namanya dolphin)
